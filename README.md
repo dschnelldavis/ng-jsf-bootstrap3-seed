@@ -4,10 +4,10 @@ This example app shows how to generate a Bootstrap 3 form from a JSON Schema usi
 
 The app was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
-To create this app yourself, enter the following commands in your terminal:
+To create this app yourself, make sure you have [Node](https://nodejs.org/en/), [NPM](https://www.npmjs.com/), and [Angular CLI](https://cli.angular.io/) installed, then enter the following commands in your terminal:
 ```shell
-ng new ng-jsf-bootstrap3-Seed
-cd ng-jsf-bootstrap3-Seed
+ng new ng-jsf-bootstrap3-seed
+cd ng-jsf-bootstrap3-seed
 npm install angular2-json-schema-form
 ```
 

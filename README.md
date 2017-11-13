@@ -28,7 +28,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Further help
 
-To get more help on Angular JSON Schema Formm, see the [Angular JSON Schema Form README](https://github.com/dschnelldavis/angular2-json-schema-form/blob/master/README.md).
+To get more help on Angular JSON Schema Form, see the [Angular JSON Schema Form README](https://github.com/dschnelldavis/angular2-json-schema-form/blob/master/README.md).
 
 To get more help on Bootstrap 3, see the [Bootstrap 3 documentation](http://getbootstrap.com/docs/3.3/).
 

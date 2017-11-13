@@ -15,8 +15,8 @@ Then edit the following files:
 
 * src/index.html — load external Bootstrap JavaScript and CSS
 * src/app/app.module.ts — load Angular JSON Schema Form module
-* src/app/app.component.ts — add schema and data variables to configure form
-* src/app/app.component.html — add <json-schema-form> tag to display form
+* src/app/app.component.ts — set schema and data variables to configure form
+* src/app/app.component.html — display form with `<json-schema-form>` tag
 
 ## Development server
 
